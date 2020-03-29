@@ -10,9 +10,11 @@
 git clone https://github.com/calebesg/doe.git
 ```
 ```sh
+cd doe/
+```
+```sh
 npm install
 ```
-
 ```sh
 npm start
 ```
